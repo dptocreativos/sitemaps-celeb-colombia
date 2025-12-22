@@ -4,18 +4,25 @@
 <changefreq>weekly</changefreq>
 <priority>0.90</priority>
 </url>
+  
 <url>
 <loc>https://www.celebracolombia.com/p/wedding-planner/santa-marta/international-wedding-planner</loc>
 <changefreq>weekly</changefreq>
 <priority>0.80</priority>
 </url>
+
+<url>
 <loc>https://www.celebracolombia.com/p/wedding-planner/barranquilla/mandarina-bodas-%26-eventos</loc>
 <changefreq>weekly</changefreq>
 <priority>0.80</priority>
 </url>
+
+<url>
 <loc>https://www.celebracolombia.com/p/wedding-planner/villa-de-leyva/mandarina-bodas-%26-eventos</loc>
 <changefreq>weekly</changefreq>
 <priority>0.80</priority>
 </url>
+
 </urlset>
+
 
