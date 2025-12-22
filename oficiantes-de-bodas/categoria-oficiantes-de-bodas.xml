@@ -3,5 +3,11 @@
 <loc>https://www.celebracolombia.com/categorias/oficiantes-de-bodas</loc>
 <changefreq>weekly</changefreq>
 <priority>0.90</priority>
+
+<loc>https://www.celebracolombia.com/p2/oficiantes-de-bodas/cartagena-de-indias/oficiante-internacional</loc>
+<changefreq>weekly</changefreq>
+<priority>0.80</priority>
+</url>
+  
 </url>
 </urlset>
